@@ -27,7 +27,7 @@ Data link:
 
 1. Three folders.
   
-   1). 'Generic-ADMM-CSNet-ComplexMRI' are testing and training codes to reconstruct complex-valued MR images with 1D Cartesian masks and 2D random masks.
+   1). 'Generic-ADMM-CSNet-ComplexMRI' are testing and training codes to reconstruct complex-valued MR images with 1D Cartesian masks and 2D random masks.<>
    2). 'Generic-ADMM-CSNet-RealMRI' are testing and training codes to reconstruct real-valued MR images with the Pseudo radial mask.
    3). 'Generic-ADMM-CSNet-Image' are testing and training codes to reconstruct natural images with the randomly permuted coded diffraction operators and Walsh-Hadamard operators. 
    
