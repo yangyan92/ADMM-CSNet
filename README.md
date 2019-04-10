@@ -7,7 +7,7 @@ These are  testing and training codes for Generic-ADMM-CSNet in "ADMM-CSNet: A D
  
 If you use thses codes, please cite our paper:
 
-[[1] Yan Yang, Jian Sun, Huibin Li, Zongben Xu. ADMM-CSNet: A Deep Learning Approach for Image Compressive Sensing (TPAMI 2019).](http://gr.xjtu.edu.cn/web/jiansun/publications])
+[1] Yan Yang, Jian Sun, Huibin Li, Zongben Xu. ADMM-CSNet: A Deep Learning Approach for Image Compressive Sensing (TPAMI 2019).
 
 http://gr.xjtu.edu.cn/web/jiansun/publications
 
